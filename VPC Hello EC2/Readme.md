@@ -8,7 +8,7 @@ This beginner-level project covers:
 - Hosting a simple HTML page: **"Hello, I am Naman from EC2"**
 
 ##  Screenshots:
-Screenshots of key steps are included in the `Screenshots/` folder.
+Screenshots of key steps are included in the `VPC Hello EC2/Screenshots` folder.
 
 ##  Skills Used:
 - AWS VPC, Subnetting, Route Tables
